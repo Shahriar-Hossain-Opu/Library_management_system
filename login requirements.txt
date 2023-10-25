@@ -1,0 +1,10 @@
+Admin login 
+
+Admin Name-opu
+Admin Password-1234
+
+
+User login
+
+username-opu@gmail.com
+password-123456
